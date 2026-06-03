@@ -167,13 +167,9 @@ Measures regional contribution to overall revenue.
 
 ---
 
-# Dashboard Preview
+## Power BI Dashboard
 
-Insert dashboard screenshot here.
-
-![Dashboard](visuals/dashboard.png)
-
----https://github.com/jitendera-code/global-consulting-revenue-analytics/blob/main/Dashboard_Screenshots/revenue_dashboard.png
+![Revenue Dashboard](Dashboard_Screenshots/revenue_dashboard.png)
 
 # Analysis & Findings
 
