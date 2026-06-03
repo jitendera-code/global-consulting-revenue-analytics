@@ -173,7 +173,7 @@ Insert dashboard screenshot here.
 
 ![Dashboard](visuals/dashboard.png)
 
----
+---https://github.com/jitendera-code/global-consulting-revenue-analytics/blob/main/Dashboard_Screenshots/revenue_dashboard.png
 
 # Analysis & Findings
 
